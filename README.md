@@ -7,3 +7,6 @@ A playing card based mini project covering the golang fundamentals
 ## 3. go test
 ## 4. go env
 ## 5. go version
+
+# GoTuts
+A tutorial for Golang fundamentals
