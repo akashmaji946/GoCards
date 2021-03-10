@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello to maps buddy")
+	fmt.Println("Hello to maps")
 
 	// colors := map[string]string{
 	// 	"red":   "#ff0000",
